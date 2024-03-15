@@ -1,0 +1,17 @@
+Laptops, notebooks and netbooks are difficult to support and we
+recommend to use the vendor flashing utility. The embedded controller
+(EC) in these machines often interacts badly with flashing.
+See the manpage and https://flashrom.org/Laptops for details.
+
+If flash is shared with the EC, erase is guaranteed to brick your laptop
+and write may brick your laptop.
+Read and probe may irritate your EC and cause fan failure, backlight
+failure and sudden poweroff.
+You have been warned.
+========================================================================
+Error accessing MT25QL02G, 0x10000000 bytes at 0x00000000f0000000
+/dev/mem mmap failed: Resource temporarily unavailable
+Could not map flash chip MT25QL02G at 0x00000000f0000000.
+Error accessing MT25QU02G, 0x10000000 bytes at 0x00000000f0000000
+/dev/mem mmap failed: Resource temporarily unavailable
+Could not map flash chip MT25QU02G at 0x00000000f0000000.

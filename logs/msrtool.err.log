@@ -1,0 +1,4 @@
+msrtool 4.20-398-g59a36f59fe6
+Detected system linux: Linux with /dev/cpu/*/msr
+Detected target intel_core2_early: Intel Xeon Processor 3000, 3200, 5100, 5300, 7300 series, Intel Core 2 Quad processor 6000 series, Intel Core 2 Extreme 6000	series, Intel Core 2 Duo 4000, 5000, 6000, 7000 series processors, Intel Pentium dual-core processors
+

@@ -1,0 +1,1 @@
+cat: '/sys/class/sound/card0/hw*/init_pin_configs': No such file or directory

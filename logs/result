@@ -1,0 +1,32 @@
+[[0;32mOK[0m]		PCI configuration space and topology
+[[0;33mUNKNOWN[0m]	USB devices and topology
+[[0;32mOK[0m]		Super I/O configuration
+[[0;32mOK[0m]		EC configuration
+[[0;33mUNKNOWN[0m]	MSRs
+[[0;32mOK[0m]		SMBIOS tables
+[[0;32mOK[0m]		BIOS information
+[[0;32mOK[0m]		CMOS NVRAM
+[[0;33mUNKNOWN[0m]	Intel configuration registers
+[[0;32mOK[0m]		GPIO configuration C header files
+[[0;32mOK[0m]		kernel dmesg
+[[0;32mOK[0m]		ACPI tables
+[[0;33mUNKNOWN[0m]	Audio devices configuration
+[[0;32mOK[0m]		CPU info
+[[0;32mOK[0m]		I/O ports
+[[0;32mOK[0m]		Input bus types
+[[0;31mERROR[0m]		Firmware image
+[[0;32mOK[0m]		I2C bus
+[[0;33mUNKNOWN[0m]	ACPI tables
+[[0;32mOK[0m]		Touchpad information
+[[0;32mOK[0m]		DIMMs information
+[[0;31mERROR[0m]		CBMEM table information
+[[0;31mERROR[0m]		TPM information
+[[0;31mERROR[0m]		AMT information
+[[0;32mOK[0m]		ME information
+Results of getting data:
+
+Legend:
+[[0;32mOK[0m]		 Data get successfully
+[[0;33mUNKNOWN[0m]	 Result is unknown
+[[0;31mERROR[0m]		 Error during getting data
+

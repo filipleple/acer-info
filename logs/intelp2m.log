@@ -1,0 +1,20 @@
+Info level: Use level 1!
+Log file: logs/inteltool.log
+Output generated file: logs/gpio_snr.h
+Parse IntelTool Log File...
+...done!
+Info level: Use level 1!
+Log file: logs/inteltool.log
+Output generated file: logs/gpio_cnl.h
+Parse IntelTool Log File...
+...done!
+Info level: Use level 1!
+Log file: logs/inteltool.log
+Output generated file: logs/gpio_apl.h
+Parse IntelTool Log File...
+...done!
+Info level: Use level 1!
+Log file: logs/inteltool.log
+Output generated file: logs/gpio_lbg.h
+Parse IntelTool Log File...
+...done!

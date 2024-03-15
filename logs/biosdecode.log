@@ -1,0 +1,23 @@
+# biosdecode 3.3
+SMBIOS 2.5 present.
+	Structure Table Length: 1900 bytes
+	Structure Table Address: 0xB7AC0000
+	Number Of Structures: 45
+	Maximum Structure Size: 166 bytes
+ACPI 2.0 present.
+	OEM Identifier: PTLTD 
+	RSD Table 32-bit Address: 0xB7BF3DA0
+	XSD Table 64-bit Address: 0x00000000B7BF3E04
+BIOS32 Service Directory present.
+	Revision: 0
+	Calling Interface Address: 0x000FD8F0
+Intel Multiprocessor present.
+	Specification Revision: 1.4
+	Configuration Table Address: 0x0009D971
+	Mode: Virtual Wire
+PNP BIOS 1.0 present.
+	Event Notification: Not Supported
+	Real Mode 16-bit Code Address: E52D:A461
+	Real Mode 16-bit Data Address: 0040:0000
+	16-bit Protected Mode Code Address: 0x000FBA96
+	16-bit Protected Mode Data Address: 0x00000400

@@ -1,0 +1,2 @@
+Unable to find a Management Engine interface - run sudo modprobe mei_me and retry.
+If you receive the same error, this system does not have AMT
