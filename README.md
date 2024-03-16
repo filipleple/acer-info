@@ -68,3 +68,8 @@ Generally, a proper GPIO configuration is the only prerequisite to building an
 image that's safe to flash on an actual machine. With your debug output of 
 choice, you can go ahead and build coreboot and test it on hardware - you
 should at this point be able to get to **romstage**.
+
+----
+
+## unsorted info
+* Super I/O: Aspeed AST2400
